@@ -1,4 +1,4 @@
-# SmartContract-test
+# SmartContract open-source project
 ![alt text](https://dsolutions.at/wp-content/uploads/2018/09/cropped-2d55d3ab-9132-4f69-84f0-a7f0122ae800-4.png)
 
 
